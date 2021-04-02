@@ -24,7 +24,9 @@ As long as the API key is valid, there's nothing that needs to be set up. Simply
 *Instructions on how to run and use the program*
     
 Open the application in your preferred web browser. Search for a city in the input field and hit the blue search icon. Weather information should appear for today's date as well as for the following 5 days. To search a different city, type the city in the search field and click the blue ssearch icon again. Your history is saved and can be clicked on to view previous search results. To clear the search history, click the clear history button.
-    
+
+![screenshot](https://user-images.githubusercontent.com/74524186/113380493-9eb4cc80-9339-11eb-81bb-f7acab85d40d.PNG)
+
 ## Contributing
     
 *To make contributions to the app, please reach out to the following admin(s) for approval:*
